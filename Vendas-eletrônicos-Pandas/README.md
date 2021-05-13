@@ -1,4 +1,4 @@
-# Tarefas Ciência de Dados Pandas
+# Tarefas-Ciência-de-Dados-Pandas
 Estudo de um dataset de produtos eletrônicos vendidos nos EUA utilizando ferramentas como pandas e matplotlib.
 
 
